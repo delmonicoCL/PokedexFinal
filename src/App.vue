@@ -4,8 +4,8 @@
     <main>
       <div class="d-flex flex-column align-items-center justify-content-center mb-4">
         <img src="./assets/img/pokemon.png" alt="">
-        <h1>Bienvenido a Pokédex</h1>
-        <p>Conoce y selecciona tus Pokemon Favoritos</p>
+        <h1>Bienvenido a tu Pokédex</h1>
+        <p>Conoce y selecciona tus Pokemon Favoritos :)</p>
       </div>
       <PokemonGrid :filteredType="filteredType" />
     </main>
